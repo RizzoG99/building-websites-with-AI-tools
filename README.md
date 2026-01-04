@@ -2,7 +2,7 @@
 
 Have you ever had brilliant ideas sitting in your Notes app that never became reality? This guide will help you transform those ideas into working products, starting from zero.
 
-## Introduction
+## 🎯 Introduction
 
 This guide is designed for developers with some experience—whether you're mid-level, senior, or an ambitious junior willing to learn. Why? Because you need to understand and critically evaluate what the AI suggests. AI is a powerful tool that helps us reach our goals faster, but it doesn't replace our judgment and expertise (at least not yet).
 
@@ -27,7 +27,7 @@ graph TB
     L --> M[🚀 Deploy to Production]
 ```
 
-## Core Principles
+## 💡 Core Principles
 
 ### The Main Idea
 
