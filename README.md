@@ -48,7 +48,7 @@ Since I love UX/UI but don't have much time for manual mockup creation, I choose
 
 ### Using Stitch for Mockups
 
-1. **Generate the prompt**: Follow this guide to create an effective Stitch prompt from your functional analysis: [Generate Prompt for Stitch](https://github.com/RizzoG99/building-websites-with-AI-tools/blob/main/generate-Stich-prompt.md)
+1. **Generate the prompt**: Follow this guide to create an effective Stitch prompt from your functional analysis: [Generate Prompt for Stitch](https://github.com/RizzoG99/building-websites-with-AI-tools/blob/main/generate-stitch-prompts.md)
 
 2. **Paste into Stitch**: Copy your prompt to [Stitch](https://stitch.withgoogle.com)
 
